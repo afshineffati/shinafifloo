@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Afshin (@shinafifloo)
-- 👀 I’m interested in not only 👨🏻‍💻Software Development, but also in 🔭Astronomy, 🕹Gaming and 🤝Networking!
-- 🌱 I’m currently learning Computer Science fundamentals and Web Development.
-- 💞️ I’m looking to collaborate on web development projects; fron-end and back-end development with Flask 
+- 👀 I’m interested in 👨🏻‍💻Software Development, 🔭Astronomy, 🕹Gaming and 🤝Networking!
+- 🌱 I’m actively learning ups and downs of Python, on my path to become a full-fledged developer!
+- 💞️ I’m looking to collaborate on web development projects; fron-end and back-end!
 - 📫 I can be reached at effati.afshin@gmail.com
 
 <!---
